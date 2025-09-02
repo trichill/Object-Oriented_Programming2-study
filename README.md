@@ -26,9 +26,8 @@ Object-Oriented_Programming2 / 김영신 / week1 / README.md
 ### pr내용
 아래 세 줄 복사해서 To.Reviewers 밑에 pr내용 작성하기
 
-```
+````
 ```
 To. Reviewers
 ```
-```
-
+````
